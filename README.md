@@ -107,6 +107,8 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
     Push to the branch (git push origin feature/new-feature)
     Open a pull request
 
-License
+A WORD OF CAUTION NONE OF THIS CODE OR THIS README FILE WAS WRITTEN BY ME IT WAS ALL CHATGPT . I JUST WANTED TO SHARE THIS COOL SCRIPT I HAVE NO IDEA ABOUT LISCENSE OR ANYTHING. 
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+FEEL FREE TO IMPROVE THIS AS YOU SEE FIT. 
+
+Thanks for reading.
